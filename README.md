@@ -4,8 +4,10 @@
 GEODNET Improvement Proposals are the core unit of change in the GEODNET Network.
 
 
-If you have questions or feedback, please see the [Discussion](https://github.com/GEODNET/GIP/discussions) section of this Repo, where you can open forums to propose changes, provide feedback, and discuss ideas on how to make GEODNET Governance better.
+If you have questions or feedback, please see the [Discussion](https://github.com/geodao/GIP/discussions) section of this Repo, where you can open forums to propose changes, provide feedback, and discuss ideas on how to make GEODNET Governance better.
 
+
+Please refer to 0000-template.md for submitting a proposal. 
 
 ## Index of proposals
 
