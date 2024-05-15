@@ -1,4 +1,4 @@
-# GIP
+# GIP 
 # GEODNET Improvement Proposals (GIP)
 
 GEODNET Improvement Proposals constitute the fundamental mechanism for implementing changes within the GEODNET Network.
