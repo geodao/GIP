@@ -1,11 +1,8 @@
 # GIP
 # GEODNET Improvement Proposals (GIP)
 
-GEODNET Improvement Proposals are the core unit of change in the GEODNET Network.
-
-
-If you have questions or feedback, please see the [Discussion](https://github.com/geodao/GIP/discussions) section of this Repo, where you can open forums to propose changes, provide feedback, and discuss ideas on how to make GEODNET Governance better.
-
+GEODNET Improvement Proposals constitute the fundamental mechanism for implementing changes within the GEODNET Network.
+If you have questions or feedback, please see the [Discord Governance channel](https://discord.com/invite/VKgsqka8), where you can propose changes, ask questions, provide feedback, and discuss ideas on how to make the GEODNET Governance better. 
 
 Please refer to 0000-template.md for submitting a proposal. 
 
